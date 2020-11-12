@@ -7,6 +7,6 @@ public class Test {
         System.out.println("the Third change helloword");
         System.out.println("the forth change helloword");
 
-        System.out.println("货代主分支");
+        System.out.println("回到主分支");
     }
 }
