@@ -10,5 +10,6 @@ public class Test {
         System.out.println("新分支添加数据");
         System.out.println("新分支第二次添加数据");
         System.out.println("新分支第三次添加数据");
+        System.out.println("新分支第四次添加数据");
     }
 }
